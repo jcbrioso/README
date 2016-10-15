@@ -5,13 +5,13 @@
 
 ##__Primera parte__
 
-Para empezar esta prácica lo primero que he hecho ha sido crearme una cuente en [**GitHub**](www.github.com). Como era la primera vez que utilizaba este servicio, he leído la guía y he seguido los pasos del tutorial.
+Para empezar esta prácica lo primero que he hecho ha sido crearme una cuenta en [**GitHub**](www.github.com). Como era la primera vez que utilizaba este servicio, he leído la guía y he seguido los pasos del tutorial.
 
 ##__Segunda parte__
 He hecho el tutorial de [**Markdown**](www.markdowntutorial.com) porque también era nuevo para mí.
 
 ##__Tercera parte__
-Para realizar esta parte de la práctica he seguido los siguientes paso:   
+Para realizar esta parte de la práctica he seguido los siguientes pasos:   
  1. Abrir un _Bloc de notas_ por cada **lenguaje de marca**.
  2. Copiar el texto referido a cada lenguaje de marca de los apuntes y pegarlo en el _Bloc de notas_ correspondiente.
  3. Guardar los cambios realizados en el _Bloc de notas_.
