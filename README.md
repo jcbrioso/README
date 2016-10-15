@@ -1,7 +1,10 @@
 
-#__**Práctica 1**__
+#**Práctica 1**
+===============
 
-##__Primera parte__
+
+##Primera parte
+_______________
 Para empezar esta prácica lo primero que he hecho ha sido crearme una cuente en [**GitHub**](www.github.com). Como era la primera vez que utilizaba este servicio, he leído la guía y he seguido los pasos del tutorial.
 
 ##__Segunda parte__
